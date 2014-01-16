@@ -1,0 +1,17 @@
+{
+        "name": "ractive-decorators-draggable",
+        "repo": "Wayla/Ractive-decorators-draggable",
+        "description": "Ractive-decorators-draggable",
+        "version": "0.1.1",
+        "keywords": [],
+        "dependencies": {
+            "EightMedia/hammer.js": "*",
+            "brett-shwom/Ractive": "0.3.8pre-2013-11-03-legacy"
+        },
+        "development": {},
+        "license": "MIT",
+        "main": "Ractive-decorators-draggable.js",
+        "scripts": [
+                "Ractive-decorators-draggable.js"
+        ]
+}
