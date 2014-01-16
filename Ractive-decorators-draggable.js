@@ -28,7 +28,7 @@
 
     var draggable = function (node) {
 
-        Hammer(node).on("dragmove", function(event) {
+        Hammer(node).on("drag", function(event) {
             // TODO: probably should be nice and:
             //   1) not clobber existing webkitTransforms
             //   2) use all necessary prefixes
