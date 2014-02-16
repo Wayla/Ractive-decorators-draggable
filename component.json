@@ -6,7 +6,7 @@
         "keywords": [],
         "dependencies": {
             "EightMedia/hammer.js": "*",
-            "brett-shwom/Ractive": "0.3.8pre-2013-11-03-legacy"
+            "RactiveJS/Ractive": "*"
         },
         "development": {},
         "license": "MIT",
